@@ -1,0 +1,51 @@
+.heading-text {
+  text-align: center;
+  color: red;
+}
+
+.navigation {
+  text-align: center;
+  margin: 0 auto;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.navigation ul {
+  list-style: none;
+}
+
+.heading-secondary {
+  text-align: center;
+  color: rebeccapurple;
+}
+
+p {
+  text-align: center;
+}
+
+.heading-tertiary {
+  text-align: center;
+  color: yellowgreen;
+}
+
+.products-list {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.products-list ul {
+  list-style-position: inside;
+}
+
+img {
+  width: 100px;
+}
+
+.product-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
